@@ -1,0 +1,77 @@
+body
+{
+	color: red;
+	background-color: gray;
+	font: 20px Arial;
+	width: 100%;
+	margin: auto;
+}
+
+
+#baner
+{
+	width: 603px;
+}
+
+#nagłówek
+{
+	background-color: black;
+}
+
+aside , footer
+{
+	text-align: right;
+	margin-right: 15px;
+	font-size: 20px;
+}
+
+
+
+main {
+background: linear-gradient(90deg,black, white,black);
+width: 1000px;
+text-align: center;
+height: 500px;
+margin-bottom: 25px;
+}
+nav , main {
+float: left;
+min-height:300px;
+padding: 25px;
+}
+nav{
+width: 300px;
+text-align: center;
+}
+
+
+
+footer{
+clear: left;
+}
+
+a {
+color: red;
+}
+
+
+a:link
+{
+	color: red;
+	text-decoration: none;
+}
+
+a:visited
+{
+	color: red;
+}
+
+a:hover
+{
+	color: red;
+}
+
+a:active
+{
+	color: red;
+}
